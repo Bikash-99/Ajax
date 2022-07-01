@@ -1,16 +1,20 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a> Iam a powerful autofilter bot with some more featues.. ⚡💫💫💫"""
+    START_TXT = """Hello 👋 {},
+
+I Am Not Only <a href="https://t.me/MovieTime_Robot">Movie Time Bot</a> To Assist You But Also Employed At <a href="https://t.me/+Uje9F5ZoxT43MGI1">Movie Time</a> Group By <a href="https://t.me/hellodarklord">DarkLord</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉
+
+Better You Click Below & Join <a href="https://t.me/+Uje9F5ZoxT43MGI1">Movie Time</a> & Feel The Experience Of Downloading Unlimited Movies/ Series ✅
+
+For More Information Click ℹ️ Help"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>
+✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/hellobrokenheart>Broken Heart</a>
 ✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
-✮ Test creator ❤️❤️🤗"""
+✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.2 [ 𝙱𝙴𝚃𝙰 ]"""
 
     PRIVATEBOT_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
